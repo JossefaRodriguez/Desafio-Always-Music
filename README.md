@@ -13,6 +13,8 @@
 ● Eliminar el registro de un estudiante.    
 
 
+###Requerimientos
+
 1. Realizar la conexión con PostgreSQL, utilizando la clase Pool y definiendo un máximo de 20 clientes, 5 segundos como tiempo máximo de inactividad de un cliente y 2 segundos de espera de un nuevo cliente.    
 2. Hacer todas las consultas con un JSON como argumento definiendo la propiedad name para el Prepared Statement.    
 3. Hacer las consultas con texto parametrizado.    
