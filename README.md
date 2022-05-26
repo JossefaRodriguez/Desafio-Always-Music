@@ -1,9 +1,9 @@
-#Proyecto Always Music 2.0
+# Proyecto Always Music 2.0
 
-Crear base de datos con Postgres
+## Crear base de datos con Postgres
 
 
-En este desafío se deberá ocupar la clase Pool definiendo sus diferentes propiedades, capturar los posibles errores en el proceso de conexión con la base de datos y realizar las siguientes consultas, usando textos parametrizados y Prepared Statement:
+### En este desafío se deberá ocupar la clase Pool definiendo sus diferentes propiedades, capturar los posibles errores en el proceso de conexión con la base de datos y realizar las siguientes consultas, usando textos parametrizados y Prepared Statement:
 
 
 ● Agregar un nuevo estudiante.    
